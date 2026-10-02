@@ -1,0 +1,322 @@
+movie_award_id,movie_id,year_ceremony,ceremony,category,name_nominee,film_title
+1253,2177,2001,73,ART DIRECTION,Tim Yip,"Crouching Tiger, Hidden Dragon"
+1254,3448,2001,73,BEST PICTURE,"Douglas Wick, David Franzoni and Branko Lustig, Producers",Gladiator
+1255,2177,2001,73,CINEMATOGRAPHY,Peter Pau,"Crouching Tiger, Hidden Dragon"
+1256,3448,2001,73,COSTUME DESIGN,Janty Yates,Gladiator
+1257,4325,2001,73,DOCUMENTARY (Feature),"Mark Jonathan Harris, Deborah Oppenheimer",Into the Arms of Strangers: Stories of the Kindertransport
+1259,10414,2001,73,FILM EDITING,Stephen Mirrione,Traffic
+1260,2177,2001,73,FOREIGN LANGUAGE FILM,Taiwan,"Crouching Tiger, Hidden Dragon"
+1262,2177,2001,73,MUSIC (Original Score),Tan Dun,"Crouching Tiger, Hidden Dragon"
+1263,11153,2001,73,MUSIC (Original Song),Music and Lyric by Bob Dylan,Wonder Boys
+1266,3448,2001,73,SOUND,"Scott Millan, Bob Beemer, Ken Weston",Gladiator
+1267,10549,2001,73,SOUND EDITING,Jon Johnson,U-571
+1268,3448,2001,73,VISUAL EFFECTS,"John Nelson, Neil Corbould, Tim Burke, Rob Harvey",Gladiator
+1269,10414,2001,73,WRITING (Screenplay Based on Material Previously Produced or Published),Screenplay by Stephen Gaghan,Traffic
+1270,587,2001,73,WRITING (Screenplay Written Directly for the Screen),Written by Cameron Crowe,Almost Famous
+1271,7396,2002,74,ANIMATED FEATURE FILM,Aron Warner,Shrek
+1273,180,2002,74,BEST PICTURE,"Brian Grazer and Ron Howard, Producers",A Beautiful Mind
+1274,9292,2002,74,CINEMATOGRAPHY,Andrew Lesnie,The Lord of the Rings: The Fellowship of the Ring
+1278,1299,2002,74,FILM EDITING,Pietro Scalia,Black Hawk Down
+1279,6018,2002,74,FOREIGN LANGUAGE FILM,Bosnia & Herzegovina,No Man's Land
+1280,9292,2002,74,MAKEUP,"Peter Owen, Richard Taylor",The Lord of the Rings: The Fellowship of the Ring
+1281,9292,2002,74,MUSIC (Original Score),Howard Shore,The Lord of the Rings: The Fellowship of the Ring
+1282,5689,2002,74,MUSIC (Original Song),Music and Lyric by Randy Newman,"Monsters, Inc."
+1285,1299,2002,74,SOUND,"Michael Minkler, Myron Nettinga, Chris Munro",Black Hawk Down
+1286,6441,2002,74,SOUND EDITING,"George Watters II, Christopher Boyes",Pearl Harbor
+1287,9292,2002,74,VISUAL EFFECTS,"Jim Rygiel, Randall William Cook, Richard Taylor, Mark Stetson",The Lord of the Rings: The Fellowship of the Ring
+1288,180,2002,74,WRITING (Screenplay Based on Material Previously Produced or Published),Written by Akiva Goldsman,A Beautiful Mind
+1289,3541,2002,74,WRITING (Screenplay Written Directly for the Screen),Written by Julian Fellowes,Gosford Park
+1290,7686,2003,75,ANIMATED FEATURE FILM,Hayao Miyazaki,Spirited Away
+1291,1856,2003,75,ART DIRECTION,Art Direction:  John Myhre; Set Decoration:  Gordon Sim,Chicago
+1292,1856,2003,75,BEST PICTURE,"Martin Richards, Producer",Chicago
+1293,7006,2003,75,CINEMATOGRAPHY,Conrad L. Hall,Road to Perdition
+1294,1856,2003,75,COSTUME DESIGN,Colleen Atwood,Chicago
+1295,1470,2003,75,DOCUMENTARY (Feature),"Michael Moore, Michael Donovan",Bowling for Columbine
+1297,1856,2003,75,FILM EDITING,Martin Walsh,Chicago
+1299,3258,2003,75,MAKEUP,"John Jackson, Beatrice De Alba",Frida
+1300,3258,2003,75,MUSIC (Original Score),Elliot Goldenthal,Frida
+1301,159,2003,75,MUSIC (Original Song),"Music by Eminem, Jeff Bass and Luis Resto; Lyric by Eminem",8 Mile
+1304,1856,2003,75,SOUND,"Michael Minkler, Dominick Tavella, David Lee",Chicago
+1305,9294,2003,75,SOUND EDITING,"Ethan Van der Ryn, Michael Hopkins",The Lord of the Rings: The Two Towers
+1306,9294,2003,75,VISUAL EFFECTS,"Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke",The Lord of the Rings: The Two Towers
+1307,9575,2003,75,WRITING (Adapted Screenplay),Screenplay by Ronald Harwood,The Pianist
+1308,8037,2003,75,WRITING (Original Screenplay),Written by Pedro Almodóvar,Talk to Her
+1309,3079,2004,76,ANIMATED FEATURE FILM,Andrew Stanton,Finding Nemo
+1310,9293,2004,76,ART DIRECTION,Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee,The Lord of the Rings: The Return of the King
+1311,9293,2004,76,BEST PICTURE,"Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers",The Lord of the Rings: The Return of the King
+1312,5417,2004,76,CINEMATOGRAPHY,Russell Boyd,Master and Commander: The Far Side of the World
+1313,9293,2004,76,COSTUME DESIGN,Ngila Dickson and Richard Taylor,The Lord of the Rings: The Return of the King
+1316,9293,2004,76,FILM EDITING,Jamie Selkirk,The Lord of the Rings: The Return of the King
+1317,8253,2004,76,FOREIGN LANGUAGE FILM,Canada,The Barbarian Invasions
+1318,9293,2004,76,MAKEUP,Richard Taylor and Peter King,The Lord of the Rings: The Return of the King
+1319,9293,2004,76,MUSIC (Original Score),Howard Shore,The Lord of the Rings: The Return of the King
+1320,9293,2004,76,MUSIC (Original Song),Music and Lyric by Fran Walsh and Howard Shore and Annie Lennox,The Lord of the Rings: The Return of the King
+1323,5417,2004,76,SOUND EDITING,Richard King,Master and Commander: The Far Side of the World
+1324,9293,2004,76,SOUND MIXING,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",The Lord of the Rings: The Return of the King
+1325,9293,2004,76,VISUAL EFFECTS,"Jim Rygiel, Joe Letteri, Randall William Cook and Alex Funke",The Lord of the Rings: The Return of the King
+1326,9293,2004,76,WRITING (Adapted Screenplay),"Screenplay by Fran Walsh, Philippa Boyens & Peter Jackson",The Lord of the Rings: The Return of the King
+1327,5136,2004,76,WRITING (Original Screenplay),Written by Sofia Coppola,Lost in Translation
+1328,9067,2005,77,ANIMATED FEATURE FILM,Brad Bird,The Incredibles
+1329,8226,2005,77,ART DIRECTION,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,The Aviator
+1330,5578,2005,77,BEST PICTURE,"Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers",Million Dollar Baby
+1331,8226,2005,77,CINEMATOGRAPHY,Robert Richardson,The Aviator
+1332,8226,2005,77,COSTUME DESIGN,Sandy Powell,The Aviator
+1335,8226,2005,77,FILM EDITING,Thelma Schoonmaker,The Aviator
+1336,9758,2005,77,FOREIGN LANGUAGE FILM,Spain,The Sea Inside
+1337,4934,2005,77,MAKEUP,Valli O'Reilly and Bill Corso,Lemony Snicket's A Series of Unfortunate Events
+1338,3080,2005,77,MUSIC (Original Score),Jan A.P. Kaczmarek,Finding Neverland
+1339,9419,2005,77,MUSIC (Original Song),Music and Lyric by Jorge Drexler,The Motorcycle Diaries
+1342,9067,2005,77,SOUND EDITING,Michael Silvers and Randy Thom,The Incredibles
+1343,6827,2005,77,SOUND MIXING,"Scott Millan, Greg Orloff, Bob Beemer and Steve Cantamessa",Ray
+1344,7671,2005,77,VISUAL EFFECTS,"John Dykstra, Scott Stokdyk, Anthony LaMolinara and John Frazier",Spider-Man 2
+1345,7419,2005,77,WRITING (Adapted Screenplay),Screenplay by Alexander Payne & Jim Taylor,Sideways
+1346,2834,2005,77,WRITING (Original Screenplay),Screenplay by Charlie Kaufman; Story by Charlie Kaufman & Michel Gondry & Pierre Bismuth,Eternal Sunshine of the Spotless Mind
+1348,5503,2006,78,ART DIRECTION,Art Direction:  John Myhre; Set Decoration:  Gretchen Rau,Memoirs of a Geisha
+1349,2132,2006,78,BEST PICTURE,"Paul Haggis and Cathy Schulman, Producers",Crash
+1350,5503,2006,78,CINEMATOGRAPHY,Dion Beebe,Memoirs of a Geisha
+1351,5503,2006,78,COSTUME DESIGN,Colleen Atwood,Memoirs of a Geisha
+1352,5364,2006,78,DOCUMENTARY (Feature),Luc Jacquet and Yves Darondeau,March of the Penguins
+1354,2132,2006,78,FILM EDITING,Hughes Winborne,Crash
+1356,8441,2006,78,MAKEUP,Howard Berger and Tami Lane,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+1357,1556,2006,78,MUSIC (Original Score),Gustavo Santaolalla,Brokeback Mountain
+1358,4038,2006,78,MUSIC (Original Song),"Music and Lyric by Jordan Houston, Cedric Coleman and Paul Beauregard",Hustle & Flow
+1361,4702,2006,78,SOUND EDITING,Mike Hopkins and Ethan Van der Ryn,King Kong
+1362,4702,2006,78,SOUND MIXING,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",King Kong
+1363,4702,2006,78,VISUAL EFFECTS,"Joe Letteri, Brian Van't Hul, Christian Rivers and Richard Taylor",King Kong
+1364,1556,2006,78,WRITING (Adapted Screenplay),Screenplay by Larry McMurtry & Diana Ossana,Brokeback Mountain
+1365,2132,2006,78,WRITING (Original Screenplay),Screenplay by Paul Haggis & Bobby Moresco; Story by Paul Haggis,Crash
+1366,3690,2007,79,ANIMATED FEATURE FILM,George Miller,Happy Feet
+1367,6345,2007,79,ART DIRECTION,Art Direction:  Eugenio Caballero; Set Decoration:  Pilar Revuelta,Pan's Labyrinth
+1368,8578,2007,79,BEST PICTURE,"Graham King, Producer",The Departed
+1369,6345,2007,79,CINEMATOGRAPHY,Guillermo Navarro,Pan's Labyrinth
+1370,5379,2007,79,COSTUME DESIGN,Milena Canonero,Marie Antoinette
+1371,707,2007,79,DOCUMENTARY (Feature),Davis Guggenheim,An Inconvenient Truth
+1373,8578,2007,79,FILM EDITING,Thelma Schoonmaker,The Departed
+1374,9272,2007,79,FOREIGN LANGUAGE FILM,Germany,The Lives of Others
+1375,6345,2007,79,MAKEUP,David Martí and Montse Ribé,Pan's Labyrinth
+1376,945,2007,79,MUSIC (Original Score),Gustavo Santaolalla,Babel
+1377,707,2007,79,MUSIC (Original Song),Music and Lyric by Melissa Etheridge,An Inconvenient Truth
+1380,4963,2007,79,SOUND EDITING,Alan Robert Murray and Bub Asman,Letters from Iwo Jima
+1381,2618,2007,79,SOUND MIXING,"Michael Minkler, Bob Beemer and Willie Burton",Dreamgirls
+1382,6543,2007,79,VISUAL EFFECTS,"John Knoll, Hal Hickel, Charles Gibson and Allen Hall",Pirates of the Caribbean: Dead Man's Chest
+1383,8578,2007,79,WRITING (Adapted Screenplay),Screenplay by William Monahan,The Departed
+1384,5059,2007,79,WRITING (Original Screenplay),Written by Michael Arndt,Little Miss Sunshine
+1385,6823,2008,80,ANIMATED FEATURE FILM,Brad Bird,Ratatouille
+1387,6009,2008,80,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",No Country for Old Men
+1388,10214,2008,80,CINEMATOGRAPHY,Robert Elswit,There Will Be Blood
+1389,2745,2008,80,COSTUME DESIGN,Alexandra Byrne,Elizabeth: The Golden Age
+1392,8340,2008,80,FILM EDITING,Christopher Rouse,The Bourne Ultimatum
+1394,4798,2008,80,MAKEUP,Didier Lavergne and Jan Archibald,La Vie en Rose
+1395,901,2008,80,MUSIC (Original Score),Dario Marianelli,Atonement
+1396,6184,2008,80,MUSIC (Original Song),Music and Lyric by Glen Hansard and Marketa Irglova,Once
+1399,8340,2008,80,SOUND EDITING,Karen Baker Landers and Per Hallberg,The Bourne Ultimatum
+1400,8340,2008,80,SOUND MIXING,"Scott Millan, David Parker and Kirk Francis",The Bourne Ultimatum
+1401,8850,2008,80,VISUAL EFFECTS,"Michael Fink, Bill Westenhofer, Ben Morris and Trevor Wood",The Golden Compass
+1402,6009,2008,80,WRITING (Adapted Screenplay),Written for the screen by Joel Coen & Ethan Coen,No Country for Old Men
+1403,4578,2008,80,WRITING (Original Screenplay),Written by Diablo Cody,Juno
+1404,10817,2009,81,ANIMATED FEATURE FILM,Andrew Stanton,WALL-E
+1405,8526,2009,81,ART DIRECTION,Art Direction: Donald Graham Burt; Set Decoration: Victor J. Zolfo,The Curious Case of Benjamin Button
+1406,7509,2009,81,BEST PICTURE,"Christian Colson, Producer",Slumdog Millionaire
+1407,7509,2009,81,CINEMATOGRAPHY,Anthony Dod Mantle,Slumdog Millionaire
+1408,8638,2009,81,COSTUME DESIGN,Michael O'Connor,The Duchess
+1409,5331,2009,81,DOCUMENTARY (Feature),James Marsh and Simon Chinn,Man on Wire
+1411,7509,2009,81,FILM EDITING,Chris Dickens,Slumdog Millionaire
+1413,8526,2009,81,MAKEUP,Greg Cannom,The Curious Case of Benjamin Button
+1414,7509,2009,81,MUSIC (Original Score),A.R. Rahman,Slumdog Millionaire
+1415,7509,2009,81,MUSIC (Original Song),Music by A.R. Rahman; Lyric by Gulzar,Slumdog Millionaire
+1418,8544,2009,81,SOUND EDITING,Richard King,The Dark Knight
+1419,7509,2009,81,SOUND MIXING,"Ian Tapp, Richard Pryke and Resul Pookutty",Slumdog Millionaire
+1420,8526,2009,81,VISUAL EFFECTS,"Eric Barba, Steve Preeg, Burt Dalton and Craig Barron",The Curious Case of Benjamin Button
+1421,7509,2009,81,WRITING (Adapted Screenplay),Screenplay by Simon Beaufoy,Slumdog Millionaire
+1422,5573,2009,81,WRITING (Original Screenplay),Written by Dustin Lance Black,Milk
+1423,10649,2010,82,ANIMATED FEATURE FILM,Pete Docter,Up
+1424,928,2010,82,ART DIRECTION,Production Design: Rick Carter and Robert Stromberg; Set Decoration: Kim Sinclair,Avatar
+1425,9041,2010,82,BEST PICTURE,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker
+1426,928,2010,82,CINEMATOGRAPHY,Mauro Fiore,Avatar
+1427,10196,2010,82,COSTUME DESIGN,Sandy Powell,The Young Victoria
+1428,8508,2010,82,DOCUMENTARY (Feature),Louie Psihoyos and Fisher Stevens,The Cove
+1430,9041,2010,82,FILM EDITING,Bob Murawski and Chris Innis,The Hurt Locker
+1432,7734,2010,82,MAKEUP,"Barney Burman, Mindy Hall and Joel Harlow",Star Trek
+1433,10649,2010,82,MUSIC (Original Score),Michael Giacchino,Up
+1434,2136,2010,82,MUSIC (Original Song),Music and Lyric by Ryan Bingham and T Bone Burnett,Crazy Heart
+1437,9041,2010,82,SOUND EDITING,Paul N.J. Ottosson,The Hurt Locker
+1438,9041,2010,82,SOUND MIXING,Paul N.J. Ottosson and Ray Beckett,The Hurt Locker
+1439,928,2010,82,VISUAL EFFECTS,"Joe Letteri, Stephen Rosenbaum, Richard Baneham and Andrew R. Jones",Avatar
+1440,6639,2010,82,WRITING (Adapted Screenplay),Screenplay by Geoffrey Fletcher,Precious: Based on the Novel 'Push' by Sapphire
+1441,9041,2010,82,WRITING (Original Screenplay),Written by Mark Boal,The Hurt Locker
+1442,10407,2011,83,ANIMATED FEATURE FILM,Lee Unkrich,Toy Story 3
+1443,522,2011,83,ART DIRECTION,Production Design: Robert Stromberg; Set Decoration: Karen O'Hara,Alice in Wonderland
+1444,9158,2011,83,BEST PICTURE,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",The King's Speech
+1445,4264,2011,83,CINEMATOGRAPHY,Wally Pfister,Inception
+1446,522,2011,83,COSTUME DESIGN,Colleen Atwood,Alice in Wonderland
+1447,4300,2011,83,DOCUMENTARY (Feature),Charles Ferguson and Audrey Marrs,Inside Job
+1449,9833,2011,83,FILM EDITING,Angus Wall and Kirk Baxter,The Social Network
+1451,10144,2011,83,MAKEUP,Rick Baker and Dave Elsey,The Wolfman
+1452,9833,2011,83,MUSIC (Original Score),Trent Reznor and Atticus Ross,The Social Network
+1453,10407,2011,83,MUSIC (Original Song),Music and Lyric by Randy Newman,Toy Story 3
+1456,4264,2011,83,SOUND EDITING,Richard King,Inception
+1457,4264,2011,83,SOUND MIXING,"Lora Hirschberg, Gary A. Rizzo and Ed Novick",Inception
+1458,4264,2011,83,VISUAL EFFECTS,"Paul Franklin, Chris Corbould, Andrew Lockley and Peter Bebb",Inception
+1459,9833,2011,83,WRITING (Adapted Screenplay),Screenplay by Aaron Sorkin,The Social Network
+1460,9158,2011,83,WRITING (Original Screenplay),Screenplay by David Seidler,The King's Speech
+1461,6815,2012,84,ANIMATED FEATURE FILM,Gore Verbinski,Rango
+1462,4014,2012,84,ART DIRECTION,Production Design: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,Hugo
+1463,8206,2012,84,BEST PICTURE,"Thomas Langmann, Producer",The Artist
+1464,4014,2012,84,CINEMATOGRAPHY,Robert Richardson,Hugo
+1465,8206,2012,84,COSTUME DESIGN,Mark Bridges,The Artist
+1468,8837,2012,84,FILM EDITING,Kirk Baxter and Angus Wall,The Girl with the Dragon Tattoo
+1469,324,2012,84,FOREIGN LANGUAGE FILM,Iran,A Separation
+1470,9105,2012,84,MAKEUP,Mark Coulier and J. Roy Helland,The Iron Lady
+1471,8206,2012,84,MUSIC (Original Score),Ludovic Bource,The Artist
+1472,9427,2012,84,MUSIC (Original Song),Music and Lyric by Bret McKenzie,The Muppets
+1475,4014,2012,84,SOUND EDITING,Philip Stockton and Eugene Gearty,Hugo
+1476,4014,2012,84,SOUND MIXING,Tom Fleischman and John Midgley,Hugo
+1477,4014,2012,84,VISUAL EFFECTS,"Rob Legato, Joss Williams, Ben Grossmann and Alex Henning",Hugo
+1478,8580,2012,84,WRITING (Adapted Screenplay),Screenplay by Alexander Payne and Nat Faxon & Jim Rash,The Descendants
+1479,5553,2012,84,WRITING (Original Screenplay),Written by Woody Allen,Midnight in Paris
+1480,1492,2013,85,ANIMATED FEATURE FILM,Mark Andrews and Brenda Chapman,Brave
+1481,831,2013,85,BEST PICTURE,"Grant Heslov, Ben Affleck and George Clooney, Producers",Argo
+1482,4997,2013,85,CINEMATOGRAPHY,Claudio Miranda,Life of Pi
+1483,751,2013,85,COSTUME DESIGN,Jacqueline Durran,Anna Karenina
+1484,7234,2013,85,DOCUMENTARY (Feature),Malik Bendjelloul and Simon Chinn,Searching for Sugar Man
+1486,831,2013,85,FILM EDITING,William Goldenberg,Argo
+1487,682,2013,85,FOREIGN LANGUAGE FILM,Austria,Amour
+1489,4997,2013,85,MUSIC (Original Score),Mychael Danna,Life of Pi
+1490,7482,2013,85,MUSIC (Original Song),Music and Lyric by Adele Adkins and Paul Epworth,Skyfall
+1491,5026,2013,85,PRODUCTION DESIGN,Production Design: Rick Carter; Set Decoration: Jim Erickson,Lincoln
+1494,7482,2013,85,SOUND EDITING,Per Hallberg and Karen Baker Landers,Skyfall
+1495,11302,2013,85,SOUND EDITING,Paul N.J. Ottosson,Zero Dark Thirty
+1497,4997,2013,85,VISUAL EFFECTS,"Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",Life of Pi
+1498,831,2013,85,WRITING (Adapted Screenplay),Screenplay by Chris Terrio,Argo
+1499,2497,2013,85,WRITING (Original Screenplay),Written by Quentin Tarantino,Django Unchained
+1500,3285,2014,86,ANIMATED FEATURE FILM,"Chris Buck, Jennifer Lee and Peter Del Vecho",Frozen
+1501,24,2014,86,BEST PICTURE,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers",12 Years a Slave
+1502,3565,2014,86,CINEMATOGRAPHY,Emmanuel Lubezki,Gravity
+1503,8887,2014,86,COSTUME DESIGN,Catherine Martin,The Great Gatsby
+1504,58,2014,86,DOCUMENTARY (Feature),"Morgan Neville, Gil Friesen and Caitrin Rogers",20 Feet from Stardom
+1506,3565,2014,86,FILM EDITING,Alfonso Cuarón and Mark Sanger,Gravity
+1507,8880,2014,86,FOREIGN LANGUAGE FILM,Italy,The Great Beauty
+1508,2225,2014,86,MAKEUP AND HAIRSTYLING,Adruitha Lee and Robin Mathews,Dallas Buyers Club
+1509,3565,2014,86,MUSIC (Original Score),Steven Price,Gravity
+1510,3285,2014,86,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Frozen
+1511,8887,2014,86,PRODUCTION DESIGN,Production Design: Catherine Martin; Set Decoration: Beverley Dunn,The Great Gatsby
+1514,3565,2014,86,SOUND EDITING,Glenn Freemantle,Gravity
+1515,3565,2014,86,SOUND MIXING,"Skip Lievsay, Niv Adiri, Christopher Benstead and Chris Munro",Gravity
+1516,3565,2014,86,VISUAL EFFECTS,"Tim Webber, Chris Lawrence, David Shirk and Neil Corbould",Gravity
+1517,24,2014,86,WRITING (Adapted Screenplay),Screenplay by John Ridley,12 Years a Slave
+1518,3807,2014,86,WRITING (Original Screenplay),Written by Spike Jonze,Her
+1519,1233,2015,87,ANIMATED FEATURE FILM,"Don Hall, Chris Williams and Roy Conli",Big Hero 6
+1520,1271,2015,87,BEST PICTURE,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance)
+1521,1271,2015,87,CINEMATOGRAPHY,Emmanuel Lubezki,Birdman or (The Unexpected Virtue of Ignorance)
+1522,8875,2015,87,COSTUME DESIGN,Milena Canonero,The Grand Budapest Hotel
+1523,1924,2015,87,DOCUMENTARY (Feature),"Laura Poitras, Mathilde Bonnefoy and Dirk Wilutzky",CitizenFour
+1525,11019,2015,87,FILM EDITING,Tom Cross,Whiplash
+1526,4144,2015,87,FOREIGN LANGUAGE FILM,Poland,Ida
+1527,8875,2015,87,MAKEUP AND HAIRSTYLING,Frances Hannon and Mark Coulier,The Grand Budapest Hotel
+1528,8875,2015,87,MUSIC (Original Score),Alexandre Desplat,The Grand Budapest Hotel
+1529,7265,2015,87,MUSIC (Original Song),Music and Lyric by John Stephens and Lonnie Lynn,Selma
+1530,8875,2015,87,PRODUCTION DESIGN,Production Design: Adam Stockhausen; Set Decoration: Anna Pinnock,The Grand Budapest Hotel
+1533,658,2015,87,SOUND EDITING,Alan Robert Murray and Bub Asman,American Sniper
+1534,11019,2015,87,SOUND MIXING,"Craig Mann, Ben Wilkins and Thomas Curley",Whiplash
+1535,4316,2015,87,VISUAL EFFECTS,"Paul Franklin, Andrew Lockley, Ian Hunter and Scott Fisher",Interstellar
+1536,9055,2015,87,WRITING (Adapted Screenplay),Written by Graham Moore,The Imitation Game
+1537,1271,2015,87,WRITING (Original Screenplay),"Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman or (The Unexpected Virtue of Ignorance)
+1538,4304,2016,88,ANIMATED FEATURE FILM,Pete Docter and Jonas Rivera,Inside Out
+1539,7695,2016,88,BEST PICTURE,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight
+1540,9694,2016,88,CINEMATOGRAPHY,Emmanuel Lubezki,The Revenant
+1541,5256,2016,88,COSTUME DESIGN,Jenny Beavan,Mad Max: Fury Road
+1542,688,2016,88,DOCUMENTARY (Feature),Asif Kapadia and James Gay-Rees,Amy
+1544,5256,2016,88,FILM EDITING,Margaret Sixel,Mad Max: Fury Road
+1545,7594,2016,88,FOREIGN LANGUAGE FILM,Hungary,Son of Saul
+1546,5256,2016,88,MAKEUP AND HAIRSTYLING,"Lesley Vanderwalt, Elka Wardega and Damian Martin",Mad Max: Fury Road
+1547,8949,2016,88,MUSIC (Original Score),Ennio Morricone,The Hateful Eight
+1548,7659,2016,88,MUSIC (Original Song),Music and Lyric by Jimmy Napes and Sam Smith,Spectre
+1549,5256,2016,88,PRODUCTION DESIGN,Production Design: Colin Gibson; Set Decoration: Lisa Thompson,Mad Max: Fury Road
+1552,5256,2016,88,SOUND EDITING,Mark Mangini and David White,Mad Max: Fury Road
+1553,5256,2016,88,SOUND MIXING,"Chris Jenkins, Gregg Rudloff and Ben Osmo",Mad Max: Fury Road
+1554,2890,2016,88,VISUAL EFFECTS,"Andrew Whitehurst, Paul Norris, Mark Ardington and Sara Bennett",Ex Machina
+1555,8296,2016,88,WRITING (Adapted Screenplay),Screenplay by Charles Randolph and Adam McKay,The Big Short
+1556,7695,2016,88,WRITING (Original Screenplay),Written by Josh Singer & Tom McCarthy,Spotlight
+1557,11331,2017,89,ANIMATED FEATURE FILM,"Byron Howard, Rich Moore and Clark Spencer",Zootopia
+1558,5699,2017,89,BEST PICTURE,"Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",Moonlight
+1559,4788,2017,89,CINEMATOGRAPHY,Linus Sandgren,La La Land
+1560,2951,2017,89,COSTUME DESIGN,Colleen Atwood,Fantastic Beasts and Where to Find Them
+1563,3632,2017,89,FILM EDITING,John Gilbert,Hacksaw Ridge
+1565,7885,2017,89,MAKEUP AND HAIRSTYLING,"Alessandro Bertolazzi, Giorgio Gregorini and Christopher Nelson",Suicide Squad
+1566,4788,2017,89,MUSIC (Original Score),Justin Hurwitz,La La Land
+1567,4788,2017,89,MUSIC (Original Song),Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul,La La Land
+1568,4788,2017,89,PRODUCTION DESIGN,Production Design: David Wasco; Set Decoration: Sandy Reynolds-Wasco,La La Land
+1570,7447,2017,89,SHORT FILM (Live Action),Kristof Deák and Anna Udvardy,Sing
+1571,845,2017,89,SOUND EDITING,Sylvain Bellemare,Arrival
+1572,3632,2017,89,SOUND MIXING,"Kevin O'Connell, Andy Wright, Robert Mackenzie and Peter Grace",Hacksaw Ridge
+1573,9123,2017,89,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Dan Lemmon",The Jungle Book
+1574,5699,2017,89,WRITING (Adapted Screenplay),Screenplay by Barry Jenkins; Story by Tarell Alvin McCraney,Moonlight
+1575,5336,2017,89,WRITING (Original Screenplay),Written by Kenneth Lonergan,Manchester by the Sea
+1576,1982,2018,90,ANIMATED FEATURE FILM,Lee Unkrich and Darla K. Anderson,Coco
+1577,9798,2018,90,BEST PICTURE,"Guillermo del Toro and J. Miles Dale, Producers",The Shape of Water
+1578,1327,2018,90,CINEMATOGRAPHY,Roger A. Deakins,Blade Runner 2049
+1579,6501,2018,90,COSTUME DESIGN,Mark Bridges,Phantom Thread
+1580,4134,2018,90,DOCUMENTARY (Feature),Bryan Fogel and Dan Cogan,Icarus
+1582,2661,2018,90,FILM EDITING,Lee Smith,Dunkirk
+1583,220,2018,90,FOREIGN LANGUAGE FILM,Chile,A Fantastic Woman
+1584,2268,2018,90,MAKEUP AND HAIRSTYLING,"Kazuhiro Tsuji, David Malinowski and Lucy Sibbick",Darkest Hour
+1585,9798,2018,90,MUSIC (Original Score),Alexandre Desplat,The Shape of Water
+1586,1982,2018,90,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Coco
+1587,9798,2018,90,PRODUCTION DESIGN,Production Design: Paul Denham Austerberry; Set Decoration: Shane Vieau and Jeffrey A. Melvin,The Shape of Water
+1590,2661,2018,90,SOUND EDITING,Richard King and Alex Gibson,Dunkirk
+1591,2661,2018,90,SOUND MIXING,"Gregg Landaker, Gary A. Rizzo and Mark Weingarten",Dunkirk
+1592,1327,2018,90,VISUAL EFFECTS,"John Nelson, Gerd Nefzer, Paul Lambert and Richard R. Hoover",Blade Runner 2049
+1593,1667,2018,90,WRITING (Adapted Screenplay),Screenplay by James Ivory,Call Me by Your Name
+1594,3380,2018,90,WRITING (Original Screenplay),Written by Jordan Peele,Get Out
+1595,7675,2019,91,ANIMATED FEATURE FILM,"Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",Spider-Man: Into the Spider-Verse
+1596,3575,2019,91,BEST PICTURE,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book
+1597,7046,2019,91,CINEMATOGRAPHY,Alfonso Cuarón,Roma
+1598,1308,2019,91,COSTUME DESIGN,Ruth Carter,Black Panther
+1599,3243,2019,91,DOCUMENTARY (Feature),"Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",Free Solo
+1601,1417,2019,91,FILM EDITING,John Ottman,Bohemian Rhapsody
+1602,7046,2019,91,FOREIGN LANGUAGE FILM,Mexico,Roma
+1603,10729,2019,91,MAKEUP AND HAIRSTYLING,"Greg Cannom, Kate Biscoe and Patricia Dehaney",Vice
+1604,1308,2019,91,MUSIC (Original Score),Ludwig Goransson,Black Panther
+1605,344,2019,91,MUSIC (Original Song),"Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",A Star Is Born
+1606,1308,2019,91,PRODUCTION DESIGN,Production Design: Hannah Beachler; Set Decoration: Jay Hart,Black Panther
+1609,1417,2019,91,SOUND EDITING,John Warhurst and Nina Hartstone,Bohemian Rhapsody
+1610,1417,2019,91,SOUND MIXING,"Paul Massey, Tim Cavagin and John Casali",Bohemian Rhapsody
+1611,3108,2019,91,VISUAL EFFECTS,"Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",First Man
+1612,1322,2019,91,WRITING (Adapted Screenplay),Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,BlacKkKlansman
+1613,3575,2019,91,WRITING (Original Screenplay),"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book
+1614,10408,2020,92,ANIMATED FEATURE FILM,"Josh Cooley, Mark Nielsen and Jonas Rivera",Toy Story 4
+1615,6375,2020,92,BEST PICTURE,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite
+1616,44,2020,92,CINEMATOGRAPHY,Roger Deakins,1917
+1617,5067,2020,92,COSTUME DESIGN,Jacqueline Durran,Little Women
+1618,639,2020,92,DOCUMENTARY (Feature),"Steven Bognar, Julia Reichert and Jeff Reichert",American Factory
+1620,3185,2020,92,FILM EDITING,Michael McCusker and Andrew Buckland,Ford v Ferrari
+1621,6375,2020,92,INTERNATIONAL FEATURE FILM,South Korea,Parasite
+1622,1428,2020,92,MAKEUP AND HAIRSTYLING,"Kazu Hiro, Anne Morgan and Vivian Baker",Bombshell
+1623,4530,2020,92,MUSIC (Original Score),Hildur Guðnadóttir,Joker
+1624,7029,2020,92,MUSIC (Original Song),Music by Elton John; Lyric by Bernie Taupin,Rocketman
+1628,3185,2020,92,SOUND EDITING,Donald Sylvester,Ford v Ferrari
+1629,44,2020,92,SOUND MIXING,Mark Taylor and Stuart Wilson,1917
+1630,44,2020,92,VISUAL EFFECTS,"Guillaume Rocheron, Greg Butler and Dominic Tuohy",1917
+1631,4529,2020,92,WRITING (Adapted Screenplay),Screenplay by Taika Waititi,Jojo Rabbit
+1632,6375,2020,92,WRITING (Original Screenplay),"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",Parasite
+1633,7617,2021,93,ANIMATED FEATURE FILM,Pete Docter and Dana Murray,Soul
+1634,6052,2021,93,BEST PICTURE,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers",Nomadland
+1635,5349,2021,93,CINEMATOGRAPHY,Erik Messerschmidt,Mank
+1636,5243,2021,93,COSTUME DESIGN,Ann Roth,Ma Rainey's Black Bottom
+1639,7627,2021,93,FILM EDITING,Mikkel E. G. Nielsen,Sound of Metal
+1640,768,2021,93,INTERNATIONAL FEATURE FILM,Denmark,Another Round
+1641,5243,2021,93,MAKEUP AND HAIRSTYLING,"Sergio Lopez-Rivera, Mia Neal and Jamika Wilson",Ma Rainey's Black Bottom
+1642,7617,2021,93,MUSIC (Original Score),"Trent Reznor, Atticus Ross and Jon Batiste",Soul
+1644,5349,2021,93,PRODUCTION DESIGN,Production Design: Donald Graham Burt; Set Decoration: Jan Pascale,Mank
+1647,7627,2021,93,SOUND,"Nicolas Becker, Jaime Baksht, Michellee Couttolenc, Carlos Cortés and Phillip Bladh",Sound of Metal
+1648,8094,2021,93,VISUAL EFFECTS,"Andrew Jackson, David Lee, Andrew Lockley and Scott Fisher",Tenet
+1650,6698,2021,93,WRITING (Original Screenplay),Written by Emerald Fennell,Promising Young Woman
+1651,2775,2022,94,ANIMATED FEATURE FILM,"Jared Bush, Byron Howard, Yvett Merino and Clark Spencer",Encanto
+1652,1986,2022,94,BEST PICTURE,"Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",CODA
+1654,2183,2022,94,COSTUME DESIGN,Jenny Beavan,Cruella
+1655,7894,2022,94,DOCUMENTARY (Feature),"Ahmir ""Questlove"" Thompson, Joseph Patel, Robert Fyvolent and David Dinerstein","Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+1658,2632,2022,94,INTERNATIONAL FEATURE FILM,Japan,Drive My Car
+1659,8701,2022,94,MAKEUP AND HAIRSTYLING,"Linda Dowds, Stephanie Ingram and Justin Raleigh",The Eyes of Tammy Faye
+1661,6031,2022,94,MUSIC (Original Song),Music and Lyric by Billie Eilish and Finneas O'Connell,No Time to Die
+1667,1986,2022,94,WRITING (Adapted Screenplay),Screenplay by Siân Heder,CODA
+1668,1144,2022,94,WRITING (Original Screenplay),Written by Kenneth Branagh,Belfast

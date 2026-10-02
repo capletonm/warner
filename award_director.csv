@@ -1,0 +1,17 @@
+director_award_id,director_id,movie_id,year_ceremony,ceremony,category,name_nominee,film_title
+74,5604,10414,2001,73,DIRECTING,Steven Soderbergh,Traffic
+75,5141,180,2002,74,DIRECTING,Ron Howard,A Beautiful Mind
+76,5137,9575,2003,75,DIRECTING,Roman Polanski,The Pianist
+77,4738,9293,2004,76,DIRECTING,Peter Jackson,The Lord of the Rings: The Return of the King
+78,1245,5578,2005,77,DIRECTING,Clint Eastwood,Million Dollar Baby
+79,424,1556,2006,78,DIRECTING,Ang Lee,Brokeback Mountain
+80,4004,8578,2007,79,DIRECTING,Martin Scorsese,The Departed
+82,1447,7509,2009,81,DIRECTING,Danny Boyle,Slumdog Millionaire
+83,3406,9041,2010,82,DIRECTING,Kathryn Bigelow,The Hurt Locker
+84,5821,9158,2011,83,DIRECTING,Tom Hooper,The King's Speech
+85,4273,8206,2012,84,DIRECTING,Michel Hazanavicius,The Artist
+86,424,4997,2013,85,DIRECTING,Ang Lee,Life of Pi
+90,1343,4788,2017,89,DIRECTING,Damien Chazelle,La La Land
+91,2303,9798,2018,90,DIRECTING,Guillermo del Toro,The Shape of Water
+93,3187,6375,2020,92,DIRECTING,Joon-ho Bong,Parasite
+95,2652,9600,2022,94,DIRECTING,Jane Campion,The Power of the Dog
